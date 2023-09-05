@@ -1,0 +1,48 @@
+[
+  {
+    "model": "dogs.category",
+    "pk": 1,
+    "fields": {
+      "name": "╩юЁуш",
+      "description": "╩юЁюыхтёъшщ ъюЁуш"
+    }
+  },
+  {
+    "model": "dogs.category",
+    "pk": 2,
+    "fields": {
+      "name": "╥ръёр",
+      "description": "─ышээр  ёюсрър фы  юїюЄ√"
+    }
+  },
+  {
+    "model": "dogs.dog",
+    "pk": 1,
+    "fields": {
+      "name": "╨ры№Їшъ",
+      "category": 1,
+      "image": "",
+      "birthday": "2020-09-22"
+    }
+  },
+  {
+    "model": "dogs.dog",
+    "pk": 2,
+    "fields": {
+      "name": "╤юёшёър",
+      "category": 2,
+      "image": "",
+      "birthday": "1988-01-01"
+    }
+  },
+  {
+    "model": "dogs.dog",
+    "pk": 3,
+    "fields": {
+      "name": "╧є°юъ",
+      "category": 1,
+      "image": "dogs/2019-01-10_14-38-15.png",
+      "birthday": "2023-09-22"
+    }
+  }
+]
